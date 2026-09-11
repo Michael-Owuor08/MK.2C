@@ -1,18 +1,5 @@
 //single lined comment 
-//Program to display hello world 
 
-/*
-(multiline comment)
-Author:Michael 
-Reg number:BCS-01-0001/2026
-Deascription :Hello World Program 
-Date:
-version 1
-*\
-
-//pre-processor directive 
-#include <stdio.h >//scanf()Printf ()
-#include <math.h >//single lined comment
 //program to display hello world
 
 /*

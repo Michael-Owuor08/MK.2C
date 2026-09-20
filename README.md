@@ -1,5 +1,6 @@
-C-programing practice 
+C-programing practice/
  README.md
- hello world 
+ hello world/
+  main.c/
  
 

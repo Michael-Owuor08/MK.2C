@@ -12,11 +12,11 @@ version 1 */
 #define PI 3.142
 
 int main (){ 
-//display hello world 
-printf ("hello world!\n"); 
-printf("welcometo C programing\n"); 
-printf("BCS Computer Science\n"); 
-printf("Indhinade");
+    //display hello world 
+    printf ("hello world!\n"); 
+    printf("welcometo C programing\n"); 
+    printf("BCS Computer Science\n"); 
+    printf("Indhinade");
 
-return 0;//execution successful 
+    return 0;//execution successful 
 }

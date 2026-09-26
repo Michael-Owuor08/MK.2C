@@ -25,7 +25,7 @@ int main(){
     scanf("%s",number);
 
     printf ("\nMy height is:%.2f%c\n",height, meter);  
-    printf("My bank account balance is:Ksh%.2d%s\n", amount); 
+    printf("My bank account balance is:Ksh%.2d\n", amount); 
     printf("My phone number is:%s\n", number);
 
     return 0; 

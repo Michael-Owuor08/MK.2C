@@ -1,6 +1,10 @@
 C-programing practice/
- README.md
- hello world/
-  main.c/
- 
+Hello_world/
+SEM1_Y1_UNITS/
+Height_bankBalance_phoneNumber/
+Volume_SurfaceArea/
+Calculate_Library_fine/
+Exam_eligibility/
+Water_bill/
+Mobile_data_bundle_purchase/
 

@@ -1,4 +1,4 @@
-# MK.2C - C Programming Practice
+# Mike14.c - C Programming Practice
 A collection of C programming exercises and projects for learning fundamental programming concepts.## Projects
 
 - **Hello_world/** - Getting started with C fundamentals
